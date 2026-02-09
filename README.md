@@ -1,31 +1,31 @@
 # HealthCare-Analytics-Dashboard-using-POWER-BI
 
-Key Insights
+What You'll Find:
 
 Average Wait Time:
 
-Discover how long patients typically wait before their appointments. Uncover patterns and trends that shed light on the efficiency of our healthcare system.
+See how long people usually have to wait for their appointments. Spot any patterns that show how well our system is working.
 
 Patient Satisfaction:
 
-Explore the average satisfaction scores given by our patients. Learn about the factors that contribute to a positive patient experience and how we can enhance it.
+Check out patient satisfaction scores. Find out what makes for a good experience and what we can do to improve.
 
-Total Patient Visits Monthly:
+Total Patient Visits Each Month:
 
-Get an overview of the ebb and flow of patients through our doors each month. Understand the dynamics of healthcare demand over time.
+Get a sense of how many patients we see each month. Understand how demand changes over time.
 
-Administrative vs. Non-Administrative Appointments:
+Admin vs. Non-Admin Appointments:
 
-Delve into the data to distinguish between appointments that involve administrative processes and those that don't. Explore the impact on wait times and patient satisfaction.
+Look at the difference between appointments that need paperwork and those that don't. See how this affects wait times and happy patients.
 
-Referrals and Walk-In Patients:
+Referrals and Walk-Ins:
 
-Uncover the balance between patients referred to specific departments and those who walk in without prior referral. Explore how this dynamic impacts the overall patient experience.
+See how many people are referred to departments versus those who just walk in. Figure out how this affects everyone's experience.
 
-Patient Visits by Age Group and Race:
+Patient Visits by Age and Race:
 
-Explore the distribution of patient visits across different age groups and races. Gain insights into the diversity of healthcare needs and preferences.
+Look at which age groups and races visit us most. Understand the different needs and preferences of our patients.
 
-Accessing the Dashboard
+How to Use the Dashboard
 
-Open the Patient Visit Dashboard file in your Power BI Desktop. Dive into the visualizations and gain valuable insights into patient visits!
+Open the Patient Visit Dashboard file in Power BI Desktop. Start clicking around to learn about patient visits!
